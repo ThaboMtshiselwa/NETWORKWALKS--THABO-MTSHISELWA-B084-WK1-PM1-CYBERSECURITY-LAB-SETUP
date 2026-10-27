@@ -130,6 +130,8 @@ I learned that documenting commands, configuration, screenshots, problems, and s
 ## Tools & Resources
 7-Zip: https://7-zip.org/download.html
 
+Microsoft Visual C++ Latest supported v14 (for Visual Studio 2017–2026) Redistributable: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+
 VirtualBox: https://virtualbox.org/wiki/Downloads
 
 Kali Linux: https://kali.org/get-kali
@@ -140,7 +142,7 @@ Tsietsi Thabo Ismael Mtshiselwa
 
 Cybersecurity Professional B084
 
-LinkedIn: https://www.linkedin.com/in/waqaskarim/
+LinkedIn: https://www.linkedin.com/in/thabo-tsietsi-ismael-mtshiselwa-3aa3b6197
 
 ## Project Information
 
