@@ -1,4 +1,4 @@
-# cybersecurity-lab-setup-ip-address-internet-configuration-networkwalks-w1
+# Cybersecurity-Lab-Setup-IP-Address-Internet-Configuration-Networkwalks-W1
 # Cybersecurity Lab Setup, IP Address Configuration and Internet Testing
 
 To set up your lab you will need the following applications for your Cybersecurity Virtual Machine
